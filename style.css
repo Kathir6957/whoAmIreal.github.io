@@ -1,0 +1,26 @@
+h1 {
+  color: yellow;
+  font-size: 70px;
+  background-color: black;
+  text-align: center;
+}
+
+
+p {
+  color: yellow;
+  font-size: 40px;
+  background-color: black;
+}
+
+.img-flag {
+  width: 900px;
+
+}
+
+.img-tamil {
+  width: 900px;
+}
+
+.index.html {
+  width: 200px;
+}
