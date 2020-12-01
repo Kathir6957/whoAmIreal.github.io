@@ -24,3 +24,53 @@ p {
 .index.html {
   width: 200px;
 }
+
+
+p2 {
+  color:yellow;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 70px;
+  text-align: center;
+}
+
+p3 {
+  font-size: 30px;
+  text-align: center;
+}
+
+p4 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.img-allen {
+  width: 300px;
+  text-align: left;
+
+}
+
+.img-lawyer {
+  width: 300px;
+  height: 500px;
+  ;
+}
+
+.img-sri {
+  width: 300px;
+  text-align: right;
+}
+
+
+.img-3pt {
+  width: 500px;
+  height: 500px;
+}
+
+.img-boys {
+  width: 450px;
+  height: 400px;
+}
